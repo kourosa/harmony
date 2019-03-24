@@ -1,0 +1,15 @@
+{
+    "Company": "e.g XYZ Compmany",
+    "Description": "e.g. Our company provide high quality and luxary karokei room for enterntainment",
+    "Address": "e.g. Satbayev, Manad 123",
+    "Category": "Beauty and Fitness",
+    "Schedule": "e.g. Monday - Saturday from 10:00 to 20:00.",
+    "Phone": "e.g. +7 (707) 489-10-81 , +7 (708) 363-72-67 ",
+    "Services": [
+        {
+            "Description": "Hair Style",
+            "category": "Hair",
+            "Price": "1200"
+        }
+    ]
+}

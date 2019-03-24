@@ -1,0 +1,470 @@
+body {
+  margin: 0;
+  color:black;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #19bbbb;
+  color: white;
+  position: fixed;
+  height: 100%;
+  overflow: auto; 
+  font-size: 0.9em;
+  box-shadow: 0 8px 8px 4px #ccc;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidebar a.active {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: white;
+  padding-top: 25px;
+  border-bottom: 1px solid #eee;
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9;
+
+
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+.content {
+  margin-left: 200px;
+  padding: 1px 4%;
+}
+
+.pcard {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+  margin-bottom:20px;
+
+  padding: 2px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+.card-header {
+  text-align: center;
+  width: 100%;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #eee;
+
+  background: #19bbbb;
+  padding: 20px 10px;
+}
+
+.container h3 { margin:10;}
+.container h2 { margin-bottom:10px;}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 500px) {
+  .sidebar {
+    width: 100%;
+    position: relative;
+    padding-top: 14px;   
+    border-bottom: 2px solid white;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 5px;
+
+  }
+  .sidebar a {
+    padding: 10px 17px;
+    float: none;
+  }
+
+  .topright{
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    border-left: 1px solid #1acaca;
+  }
+
+  .sidebar a.active {
+    padding-top: 10px;
+    background-color: #19bbbb;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+    border-bottom: 1px solid white;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9;
+
+  }
+
+  div.content {
+    margin-left: 0px;
+    padding: 1px 1px;
+  }
+  .pcard {
+    /* Add shadows to create the "card" effect */
+    margin:0px 0px;
+    margin-left: 1%;
+    margin-right: 1%;
+
+  }
+  
+}
+
+
+.DiscountCard
+{
+  box-shadow: 0 2px 2px gray ;
+  transition: 0.3s;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+/* Add some padding inside the card container */
+.con {
+  padding: 2px 12px;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.button {
+  background-color: #ddd; 
+  border: 1px solid #1acaca;
+  color: black;
+  padding: 10px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  width: 98%;
+}
+
+button:hover {
+  background-color: #222; 
+  color: white;
+}
+
+.deletebutton {
+  background-color: #bb1919; 
+  color: white;
+  float: right;
+  font-size: 0.7em;
+  cursor: pointer;
+}
+
+
+.delservice{
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #bb1919; 
+  color: white;       
+  box-shadow: 0 4px 8px ddd ;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.6em;
+  cursor: pointer;
+  padding: 8px;
+  float:right;
+  margin: 5px 5px 5px -5px;
+  margin-left: 5px;
+  max-width: 46%;
+
+}
+
+.updateservice{
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #e39133; 
+  color: white;       
+  box-shadow: 0 4px 8px ddd ;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.6em;
+  cursor: pointer;
+  padding: 8px;
+  float:right;
+  max-width: 47%;
+  margin: 5px 5px 5px -5px;
+  margin-left: 5px;
+}
+
+.saveservice {
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #19bbbb; 
+  color: white;       
+  box-shadow: 0 4px 8px #ddd ;
+  text-align: center;
+  display: inline-block;
+  font-size: 0.6em;
+  cursor: pointer;
+  padding: 8px;
+  float:right;
+  margin: 5px 5px 5px -5px;
+  width: 99%;
+
+}
+/*
+.delbutton {
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  background-color: gray; 
+  box-shadow: 0 4px 8px lighgray ;
+  border: none;
+  color: white;
+  padding: 6px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+}
+
+*/
+
+.input-group{
+  display: table;
+  border-collapse: collapse;
+  width:100%;
+  max-width: 96em;
+  margin: 10px 0px;
+}
+.input-group > div{
+  display: table-cell;
+  border: 1px solid #ddd;
+  vertical-align: middle;  /* needed for Safari */
+
+}
+.input-group-title{
+  background:#eee;
+  color: #333;
+  font-size: 0.8em;
+  padding: 0px 7px;
+  width: 20%; 
+  min-width: 85px; 
+}
+.input-group-buttin{
+  background-color:#ddd;
+  color: #222;
+  border: none;
+  font-size: 0.8em;
+  padding: 15px 7px;
+  text-align: center;
+}
+
+.input-group-buttin:hover{
+  background:black;
+  color:white;
+  cursor: pointer;
+}
+
+.input-group-area{
+  width:100%;
+
+}
+.input-group-area-limit
+{
+max-width: 100%;
+}
+
+
+.input-group input{
+  box-sizing:border-box;
+  border: 0;
+  display:inline-block;  
+  width: 100%;
+  min-width: 100px;
+  padding-top: 9px;
+  padding-bottom: 12px;
+  padding-left: 7px;
+  font-size: 1em;
+  
+}
+
+.input-group select{
+  box-sizing:border-box;
+  display:inline-block;  
+  width: 100%;
+  height: 32px;
+  min-width: 100px;
+  font-size: 1em;
+}
+
+.input-group-date {
+  display:inline-block;  
+  width: 50%;
+  min-width: 100px;
+  padding: 0px;
+  text-align:right;
+  font-size: 1em;
+}
+
+.input-group-alert{
+  position: relative;
+  padding-left: 20%;
+  margin-top:-25px;
+  margin-right:10px;
+  padding-top: 0px;
+  color:#f13434ec;
+  float:right;
+  font-size: 0.65em;
+}
+
+.input-group-notification{
+  position: relative;
+  padding-left: 20%;
+  margin-top:-54px;
+  margin-right:20px;
+  margin-bottom: 10px;
+  padding-top: 2px;
+  color:rgb(67, 120, 67);
+  float:right;
+  font-size: 0.6em;
+}
+.alert {
+  position: reletive;
+  top:-40px;
+  float:right;
+  color:blue;
+  font-size: 0.6em;
+  margin:0;
+}
+
+
+.inputfile {
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: none;
+}
+
+
+.input-group select{
+  box-sizing:border-box;
+  border: 0;
+  display: block;
+  width: 100%;
+  padding: 7px;
+  margin: 5px 0px;
+  background-color: white;
+  font-size: 1em;
+}
+
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 1px #19bbbb;
+  border: 1px solid #19bbbb;
+}
+
+ul{
+  font-size: 0.7em;
+  margin-right:10px; 
+}
+ul b{
+  color:#f13434ec;
+}
+
+
+
+::-webkit-input-placeholder { /* Edge */
+  color: lightgray;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: lightgray;
+}
+
+::placeholder {
+  font-size: 0.8em;
+  color: lightgray;
+}
+
+.profileImage{
+  width:23%;
+  padding: 3px;
+  margin: 1%;
+  border:1px solid gray;
+  }
+  
+  .serviceImage{
+  width:23%;
+  padding: 3px;
+  margin: 1%;
+  border:1px solid gray;
+  }
+  
+  img:focus {
+    outline: 2px solid #333;
+  }
+  .serviceImage:hover{
+  width:23%;
+  padding: 1px;
+  margin: 1%;
+  border:3px solid #333;
+  cursor: pointer;
+  }
+  .serviceImageSelected{
+    width:23%;
+    padding: 1px;
+    border:4px solid black;
+    margin: 1%;
+    }
+
+
+    .img-wrap {
+      position: relative;
+      
+  }
+  .img-wrap .delete {
+    color:#f13434ec;
+    opacity: 0.1;
+    text-shadow: 1px 1px 5px  black;
+      position: absolute;
+      font-size: 2em;
+      right: 14px;
+  }
+
+
+.col-6 ul {
+  color:white;
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  position: absolute;
+  top: 45%;
+  left: 34%;  
+}
+
+
+.login{
+  min-height: 280px;
+  margin-top: 20px;
+}
+

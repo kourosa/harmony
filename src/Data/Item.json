@@ -1,0 +1,200 @@
+{
+    "items": [
+        {
+            "id": "169",
+            "category": "Food",
+            "subcategory": "Dinner",
+            "compnay": "Manila Pitza ",
+            "description": "Special Pitza, lamb in a pot and much more! and much more Special Pitza, lamb in a pot and much more! and much more",
+            "address": "Almaty, Satpayev st, 132a",
+            "map": "https://www.google.com/search?q=kfc+map+almaty&npsic=0&rflfq=1&rlha=0&rllag=43239641,76872076,3084&tbm=lcl&ved=2ahUKEwjTwb7_jsLgAhUs86YKHSy7DMMQtgN6BAgAEAQ&tbs=lrf:!2m1!1e3!3sIAE,lf:1,lf_ui:4&rldoc=1#rlfi=hd:;si:;mv:!1m2!1d43.2794793586449!2d76.98558445224603!2m2!1d43.197817506659746!2d76.81048984775384!4m2!1d43.23866211332668!2d76.89803714999994!5i13",
+            "schduele": "Daily: from 10:00 to 20:00",
+            "web": "",
+            "vk": "",
+            "insta": "https://www.instagram.com/bs_cosmetics_studio",
+            "fb": "",
+            "imageurl": [
+                "https://img.grouponcdn.com/deal/kfhH3uBwDjDiqiiy4Lqy/8d-2048x1229/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/pwa_test/4NhXZhxwcfpFCzmUtXzGKPcnTM2q/4N-1400x2282/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/rL6QiHasDeziuvsEYdM9AE/IMG_8839_1500_copy-1500x900/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/52BFb2UcdLffyMithWHy/Rx-2048x1229/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/kfhH3uBwDjDiqiiy4Lqy/8d-2048x1229/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/pwa_test/4NhXZhxwcfpFCzmUtXzGKPcnTM2q/4N-1400x2282/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/rL6QiHasDeziuvsEYdM9AE/IMG_8839_1500_copy-1500x900/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/52BFb2UcdLffyMithWHy/Rx-2048x1229/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/kfhH3uBwDjDiqiiy4Lqy/8d-2048x1229/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/pwa_test/4NhXZhxwcfpFCzmUtXzGKPcnTM2q/4N-1400x2282/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/rL6QiHasDeziuvsEYdM9AE/IMG_8839_1500_copy-1500x900/v1/c414x250q85.jpg",
+                "https://img.grouponcdn.com/deal/52BFb2UcdLffyMithWHy/Rx-2048x1229/v1/c414x250q85.jpg"
+            ],
+            "features": [
+                "Free Wi-Fi",
+                "Free Parking",
+                "Summer Playground for children",
+                "The institution plays daily live music from 20:00 to 03:00.",
+                "Dance Floor"
+            ],
+            "conditions": [
+                "One coupon is valid only for 1 person.",
+                "If you go together or the company, then the coupon must be purchased for each.",
+                "Coupon must be purchased for children from 7 years.",
+                "The promotion applies to a company of up to 10 people.",
+                "The promotion does not apply to delivery, takeaway, banquets, business lunches.",
+                "Before you get the service, be sure to inform our partner that you have applied for",
+                "You can purchase an unlimited number of coupons for this promotion both for yourself and as a gift.",
+                "Pre-registration is required by phone."
+            ],
+            "staff": [
+                "1",
+                "2",
+                "3"
+            ],
+            "promotions": [
+                {
+                    "description": " tscheapest products cheapest products",
+                    "price": "1300",
+                    "dprice": "1000"
+                },
+                {
+                    "description": " tscheapest products cheapest products",
+                    "price": "1300",
+                    "dprice": "1000"
+                },
+                {
+                    "description": " tscheapest products cheapest products",
+                    "price": "1300",
+                    "dprice": "1000"
+                }
+            ]
+        },
+        {
+            "id": "584",
+            "category": "Health",
+            "compnay": "BollyX as seen on Shark Tank",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/39KZBsjh5umPpQ7nWUQNZVTm5udY/39-1600x960/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "51",
+            "category": "Beauty",
+            "compnay": "Nail 1001",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/3HWiT6Va7CFrAUFmRLP9hnjGGakk/3H-908x545/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "95",
+            "category": "Food",
+            "compnay": "Komika Chinies Food",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/tJN3whnmVHpE4viQpkna/Xy-2048x1229/v1/c414x250q85.jpg",
+            "price": "1800",
+            "dprice": "900"
+        },
+        {
+            "id": "320",
+            "category": "Health",
+            "compnay": "Pearle Vision",
+            "description": "Vision",
+            "address": "Baizakova",
+            "imageurl": "https://img.grouponcdn.com/deal/Ckmcs7vmnJFGkMAPNczQKvuvDqr/Ck-2048x1229/v1/c414x250q85.jpg",
+            "price": "3200",
+            "dprice": "2800"
+        },
+        {
+            "id": "3210",
+            "category": "Health",
+            "compnay": "Martial Arts World",
+            "description": "best products",
+            "imageurl": "https://img.grouponcdn.com/deal/mNXJc2uBGGMrNWX2m7a3/Ae-2048x1229/v1/c414x250q85.jpg",
+            "price": "500",
+            "dprice": "400"
+        },
+        {
+            "id": "1320",
+            "category": "Beauty",
+            "compnay": "425 Nail Bar",
+            "description": "best products",
+            "imageurl": "https://img.grouponcdn.com/deal/62rZb2JyDrk6kpdF5PL2/od-2048x1229/v1/c414x250q85.jpg",
+            "price": "6200",
+            "dprice": "4000"
+        },
+        {
+            "id": "121",
+            "category": "Health",
+            "compnay": "World Fitness Dance Academy",
+            "description": " tscheapest products cheapest products",
+            "imageurl": "https://img.grouponcdn.com/iam/2CLeFysjjfszajta2ygvTfc5JfXq/2C-2048x1229/v1/c414x250q85.jpg",
+            "rate": "3.5",
+            "location": "Almaty, Satpayev st, 132",
+            "price": "1200",
+            "dprice": "900"
+        },
+        {
+            "id": "443",
+            "category": "Beauty",
+            "compnay": "Bink's Nail and Beauty Lounge",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/bynder/wZVTgtWqNLVXuW7dMgWrDCRpvum/wZ-2048x1229/v1/c414x250q85.jpg",
+            "price": "12000",
+            "dprice": "10000"
+        },
+        {
+            "id": "905",
+            "category": "Beauty",
+            "compnay": "Advanced Nailcare Lounge",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/5fLoXnkEfHLRVM5PmooC9a/450805659-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "945",
+            "category": "Food",
+            "compnay": "The Historic Lancaster Tavern",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/dQXoziJcBCHfSGHytLky/a1-960x576/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "795",
+            "category": "Health",
+            "compnay": "Sunglass Mall",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/iam/3YatDcTAL6aaqvLovd2SPVQXz8m4/3Y-2048x1228/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "52",
+            "category": "Beauty",
+            "compnay": "Pedicure Land",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/iam/e8LGqLBJgiaxEbc5ptEF/HD-2048x1242/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "54",
+            "category": "Beauty",
+            "compnay": "A'million Look's Lashes",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/6XUC7iFi1hCEV7VB2Scm/wN-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "5884",
+            "category": "Health",
+            "compnay": "Freedom Fit Gym",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/iam/3U7njpF34gBuZweb6ZLMzetxpCUV/3U-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        }
+    ]
+}

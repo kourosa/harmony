@@ -1,0 +1,144 @@
+{
+    "items": [
+        {
+            "id": "168",
+            "category": "Food",
+            "subcategory": "Dinner",
+            "company": "Manila Pitza ",
+            "description": "Special Pitza, lamb in a pot and much more! and much more Special Pitza, lamb in a pot and much more! and much more",
+            "imageurl": "https://img.grouponcdn.com/deal/kfhH3uBwDjDiqiiy4Lqy/8d-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800",
+            "rate": "4"
+        },
+        {
+            "id": "584",
+            "category": "Health",
+            "company": "BollyX as seen on Shark Tank",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/39KZBsjh5umPpQ7nWUQNZVTm5udY/39-1600x960/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "51",
+            "category": "Beauty",
+            "company": "Nail 1001",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/3HWiT6Va7CFrAUFmRLP9hnjGGakk/3H-908x545/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "95",
+            "category": "Food",
+            "company": "Komika Chinies Food",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/tJN3whnmVHpE4viQpkna/Xy-2048x1229/v1/c414x250q85.jpg",
+            "price": "1800",
+            "dprice": "900"
+        },
+        {
+            "id": "320",
+            "category": "Health",
+            "company": "Pearle Vision",
+            "description": "Vision",
+            "address": "Baizakova",
+            "imageurl": "https://img.grouponcdn.com/deal/Ckmcs7vmnJFGkMAPNczQKvuvDqr/Ck-2048x1229/v1/c414x250q85.jpg",
+            "price": "3200",
+            "dprice": "2800"
+        },
+        {
+            "id": "3210",
+            "category": "Health",
+            "company": "Martial Arts World",
+            "description": "best products",
+            "imageurl": "https://img.grouponcdn.com/deal/mNXJc2uBGGMrNWX2m7a3/Ae-2048x1229/v1/c414x250q85.jpg",
+            "price": "500",
+            "dprice": "400"
+        },
+        {
+            "id": "1320",
+            "category": "Beauty",
+            "company": "425 Nail Bar",
+            "description": "best products",
+            "imageurl": "https://img.grouponcdn.com/deal/62rZb2JyDrk6kpdF5PL2/od-2048x1229/v1/c414x250q85.jpg",
+            "price": "6200",
+            "dprice": "4000"
+        },
+        {
+            "id": "121",
+            "category": "Health",
+            "company": "World Fitness Dance Academy",
+            "description": " tscheapest products cheapest products",
+            "imageurl": "https://img.grouponcdn.com/iam/2CLeFysjjfszajta2ygvTfc5JfXq/2C-2048x1229/v1/c414x250q85.jpg",
+            "rate": "3.5",
+            "location": "Almaty, Satpayev st, 132",
+            "price": "1200",
+            "dprice": "900"
+        },
+        {
+            "id": "443",
+            "category": "Beauty",
+            "company": "Bink's Nail and Beauty Lounge",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/bynder/wZVTgtWqNLVXuW7dMgWrDCRpvum/wZ-2048x1229/v1/c414x250q85.jpg",
+            "price": "12000",
+            "dprice": "10000"
+        },
+        {
+            "id": "905",
+            "category": "Beauty",
+            "company": "Advanced Nailcare Lounge",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/5fLoXnkEfHLRVM5PmooC9a/450805659-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "945",
+            "category": "Food",
+            "company": "The Historic Lancaster Tavern",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/dQXoziJcBCHfSGHytLky/a1-960x576/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "795",
+            "category": "Health",
+            "company": "Sunglass Mall",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/iam/3YatDcTAL6aaqvLovd2SPVQXz8m4/3Y-2048x1228/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "52",
+            "category": "Beauty",
+            "company": "Pedicure Land",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/iam/e8LGqLBJgiaxEbc5ptEF/HD-2048x1242/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "54",
+            "category": "Beauty",
+            "company": "A'million Look's Lashes",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/deal/6XUC7iFi1hCEV7VB2Scm/wN-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        },
+        {
+            "id": "5884",
+            "category": "Health",
+            "company": "Freedom Fit Gym",
+            "description": "loved products",
+            "imageurl": "https://img.grouponcdn.com/iam/3U7njpF34gBuZweb6ZLMzetxpCUV/3U-2048x1229/v1/c414x250q85.jpg",
+            "price": "1200",
+            "dprice": "800"
+        }
+    ]
+}
